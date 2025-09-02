@@ -1,4 +1,3 @@
 print("Hello from branch main")
 
-
-a = 10
+b = 10
